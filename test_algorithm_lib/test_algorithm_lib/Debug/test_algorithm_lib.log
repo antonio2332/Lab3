@@ -1,0 +1,22 @@
+﻿Build started 21.06.2016 21:19:18.
+     1>Project "C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\test_algorithm_lib\test_algorithm_lib.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Darapov\Documents\Visual Studio 2013\Projects\rebelsky_laba\rebelsky_laba" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test_algorithm.c
+         test_algorithm.c
+     1>c:\users\darapov\documents\visual studio 2013\projects\test_algorithm_lib\test_algorithm_lib\test_algorithm.c(22): warning C4013: 'strcmp' undefined; assuming extern returning int
+     1>c:\users\darapov\documents\visual studio 2013\projects\test_algorithm_lib\test_algorithm_lib\test_algorithm.c(30): warning C4047: 'function' : 'char *' differs in levels of indirection from 'char **'
+     1>c:\users\darapov\documents\visual studio 2013\projects\test_algorithm_lib\test_algorithm_lib\test_algorithm.c(30): warning C4024: 'array_from_cmd' : different types for formal and actual parameter 1
+     1>c:\users\darapov\documents\visual studio 2013\projects\test_algorithm_lib\test_algorithm_lib\test_algorithm.c(67): warning C4172: returning address of local variable or temporary
+     1>c:\users\darapov\documents\visual studio 2013\projects\test_algorithm_lib\test_algorithm_lib\test_algorithm.c(72): warning C4028: formal parameter 1 different from declaration
+     1>c:\users\darapov\documents\visual studio 2013\projects\test_algorithm_lib\test_algorithm_lib\test_algorithm.c(72): warning C4028: formal parameter 3 different from declaration
+     1>c:\users\darapov\documents\visual studio 2013\projects\test_algorithm_lib\test_algorithm_lib\test_algorithm.c(85): warning C4098: 'print_help' : 'void' function returning a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\test_algorithm_lib.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\test_algorithm_lib.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\test_algorithm_lib.lib" /MACHINE:X86 Debug\test_algorithm.obj
+         "C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\algorithm_lib.lib"
+            Creating library C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\test_algorithm_lib.lib and object C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\test_algorithm_lib.exp
+         test_algorithm_lib.vcxproj -> C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\test_algorithm_lib.exe
+     1>Done Building Project "C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\test_algorithm_lib\test_algorithm_lib.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.58

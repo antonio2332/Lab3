@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_algorithm_lib", "test_algorithm_lib\test_algorithm_lib.vcxproj", "{3E84A1E8-B036-4D37-9EB6-1317150D1865}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algorithm_lib", "..\rebelsky_laba\rebelsky_laba\rebelsky_laba.vcxproj", "{73A20FB2-5E7A-4655-96FB-3E84688503C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E84A1E8-B036-4D37-9EB6-1317150D1865}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E84A1E8-B036-4D37-9EB6-1317150D1865}.Debug|Win32.Build.0 = Debug|Win32
+		{3E84A1E8-B036-4D37-9EB6-1317150D1865}.Release|Win32.ActiveCfg = Release|Win32
+		{3E84A1E8-B036-4D37-9EB6-1317150D1865}.Release|Win32.Build.0 = Release|Win32
+		{73A20FB2-5E7A-4655-96FB-3E84688503C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73A20FB2-5E7A-4655-96FB-3E84688503C6}.Debug|Win32.Build.0 = Debug|Win32
+		{73A20FB2-5E7A-4655-96FB-3E84688503C6}.Release|Win32.ActiveCfg = Release|Win32
+		{73A20FB2-5E7A-4655-96FB-3E84688503C6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

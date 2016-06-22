@@ -1,0 +1,6 @@
+c:\users\darapov\documents\visual studio 2013\Projects\test_clib\test_clib\bin\Debug\test_clib.exe.config
+C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_clib\test_clib\bin\Debug\test_clib.exe
+C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_clib\test_clib\bin\Debug\test_clib.pdb
+C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_clib\test_clib\obj\Debug\test_clib.exe
+C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_clib\test_clib\obj\Debug\test_clib.pdb
+C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_clib\test_clib\obj\Debug\test_clib.csprojResolveAssemblyReference.cache

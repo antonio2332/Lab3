@@ -1,0 +1,20 @@
+﻿Build started 21.06.2016 21:19:17.
+     1>Project "C:\Users\Darapov\Documents\Visual Studio 2013\Projects\rebelsky_laba\rebelsky_laba\rebelsky_laba.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (rebelsky_laba.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D REBELSKY_LABA_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt algorithm.c
+         algorithm.c
+     1>c:\users\darapov\documents\visual studio 2013\projects\rebelsky_laba\rebelsky_laba\algorithm.c(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\darapov\documents\visual studio 2013\projects\rebelsky_laba\rebelsky_laba\algorithm.c(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\darapov\documents\visual studio 2013\projects\rebelsky_laba\rebelsky_laba\algorithm.c(49): warning C4172: returning address of local variable or temporary
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\algorithm_lib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\algorithm_lib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\algorithm_lib.lib" /MACHINE:X86 /DLL Debug\algorithm.obj
+            Creating library C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\algorithm_lib.lib and object C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\algorithm_lib.exp
+         rebelsky_laba.vcxproj -> C:\Users\Darapov\Documents\Visual Studio 2013\Projects\test_algorithm_lib\Debug\algorithm_lib.dll
+     1>Done Building Project "C:\Users\Darapov\Documents\Visual Studio 2013\Projects\rebelsky_laba\rebelsky_laba\rebelsky_laba.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99
